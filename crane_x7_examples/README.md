@@ -66,6 +66,9 @@ rosrun crane_x7_examples papercup_tower.py
 
 **実機を使う場合**
 
+紙コップの寸法：高さ60mm, 上部φ55mm, 下部φ40mm
+
+
 ---
 
 ### gripper_action_example.pyの実行
