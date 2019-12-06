@@ -50,6 +50,19 @@ roslaunch crane_x7_gazebo crane_x7_with_table.launch
 `demo.launch`を実行している状態で各サンプルを実行することができます。
 
 
+### papercup_tower.pyの実行
+
+千葉工業大学の講義「ロボット設計製作論実習３」で発表したときに使ったコードです。
+紙コップを掴んで運び、４段ピラミッドを作ります。
+
+```sh
+rosrun crane_x7_examples papercup_tower.py
+```
+
+**実機を使う場合**
+
+---
+
 ### gripper_action_example.pyの実行
 
 ハンドを開閉させるコード例です。
