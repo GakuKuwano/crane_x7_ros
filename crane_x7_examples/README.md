@@ -56,9 +56,13 @@ roslaunch crane_x7_gazebo crane_x7_with_table.launch
 
 紙コップを掴んで運び、４段ピラミッドを作ります。
 
+次のコマンドを実行します。
+
 ```sh
 rosrun crane_x7_examples papercup_tower.py
 ```
+
+![papercup_tower](https://i.imgur.com/TuRv7Qe.jpg "papercup_tower")
 
 **実機を使う場合**
 
