@@ -68,7 +68,7 @@ rosrun crane_x7_examples papercup_tower.py
 
 紙コップの寸法：高さ60mm, 上部φ55mm, 下部φ40mm
 
-紙コップを置く位置は以下の図です。詳しくは[こちらのソースコード](https://github.com/GakuKuwano/crane_x7_ros/blob/master/crane_x7_gazebo/worlds/table2.world)に書いてあります。
+紙コップを置く位置は以下の図です。紙コップは逆さまにして置きます。詳しくは[こちらのソースコード](https://github.com/GakuKuwano/crane_x7_ros/blob/master/crane_x7_gazebo/worlds/table2.world)に書いてあります。
 
 ![Figure_papercup](https://i.imgur.com/mxhpEtP.png "Figure_papercup")
 
