@@ -57,7 +57,7 @@ roslaunch crane_x7_gazebo crane_x7_with_table.launch
 
 紙皿を認識させるとGUIが表示され、実行するものをcrane_X7に注文することができます。
 
-詳しくは[こちら]()を参照してください。
+詳しくは[こちら](https://github.com/GakuKuwano/crane_x7_ros/blob/master/crane_x7_examples/ROS_BURGER.pdf)を参照してください。
 
 <ROS BURGERの実行方法>
 
