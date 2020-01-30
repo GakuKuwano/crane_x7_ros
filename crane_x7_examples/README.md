@@ -84,6 +84,10 @@ paper_plateの認識結果
 rosrun crane_x7_examples hamburger_maker.py
 ```
 
+皿を認識したら以下のようなGUIが表示されます。
+
+![Figure_GUI](https://github.com/GakuKuwano/crane_x7_ros/blob/master/crane_x7_examples/Screenshot%20from%202020-01-27%2003-05-57.png "Figure_GUI")
+
 **実機を使う場合**
 
 <具材のサイズ>
