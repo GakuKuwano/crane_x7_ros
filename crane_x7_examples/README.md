@@ -93,6 +93,14 @@ cheese：80×80mm
 
 紙皿：120×120mm
 
+全体図
+
+![Figure_hamburger](https://i.imgur.com/ROS_BURGER_ZAHYO.png "Figure_hamburger")
+
+棚に具材を置く位置
+
+![Figure2_hamburger](https://i.imgur.com/ROS_BURGER_ZAHYO2.png "Figure2_hamburger")
+
 ---
 
 ### papercup_tower.pyの実行
