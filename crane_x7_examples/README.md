@@ -57,6 +57,8 @@ roslaunch crane_x7_gazebo crane_x7_with_table.launch
 
 紙皿を認識させるとGUIが表示され、実行するものをcrane_X7に注文することができます。
 
+詳しくは[こちら]()を参照してください。
+
 <ROS BURGERの実行方法>
 
 まず、RealSenseカメラの起動するために次のコマンドを実行します。
@@ -93,13 +95,17 @@ cheese：80×80mm
 
 紙皿：120×120mm
 
-全体図
+<全体図>
 
 ![Figure_hamburger](https://github.com/GakuKuwano/crane_x7_ros/blob/master/crane_x7_examples/ROS_BURGER_ZAHYO.png "Figure_hamburger")
 
-棚に具材を置く位置
+<棚に具材を置く位置>
 
 ![Figure2_hamburger](https://github.com/GakuKuwano/crane_x7_ros/blob/master/crane_x7_examples/ROS_BURGER_ZAHYO2.png "Figure2_hamburger")
+
+<バンズを置く位置>
+
+![Figure3_hamburger](https://github.com/GakuKuwano/crane_x7_ros/blob/master/crane_x7_examples/ROS_BURGER_ZAHYO3.png "Figure3_hamburger")
 
 ---
 
