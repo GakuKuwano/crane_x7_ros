@@ -107,6 +107,8 @@ cheese：80×80mm
 
 ![Figure3_hamburger](https://github.com/GakuKuwano/crane_x7_ros/blob/master/crane_x7_examples/ROS_BURGER_ZAHYO3.png "Figure3_hamburger")
 
+動作させると[こちら](https://youtu.be/36TV19ttN3A)のような動きをします。
+
 ---
 
 ### papercup_tower.pyの実行
