@@ -78,14 +78,22 @@ rosrun crane_x7_examples hamburger_maker.py
 ```
 
 **実機を使う場合**
+
 <具材のサイズ>
+
 buns上：直径100mm, 厚さ30mm 
+
 buns下：直径100mm, 厚さ15mm
+
 beef：直径95mm, 厚さ5mm
+
 cheese：80×80mm
+
 紙コップ：高さ60mm, 上部φ55mm, 下部φ40mm, 
+
 紙皿：120×120mm
 
+---
 
 ### papercup_tower.pyの実行
 
