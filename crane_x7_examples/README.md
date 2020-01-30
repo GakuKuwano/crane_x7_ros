@@ -73,7 +73,9 @@ roslaunch realsense2_camera rs_camera.launch
 roslaunch darknet_ros darknet_ros.launch
 ```
 
-![Figure_darknet](/home/kuwano/catkin_ws/src/darknet_ros/darknet/predictions.jpg "Figure_darknet")
+paper_plateの認識結果
+
+![Figure_darknet](https://github.com/GakuKuwano/crane_x7_ros/blob/master/crane_x7_examples/predictions.jpg "Figure_darknet")
 
 
 最後に、次のコマンドを実行します。
