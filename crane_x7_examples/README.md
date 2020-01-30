@@ -95,11 +95,11 @@ cheese：80×80mm
 
 全体図
 
-![Figure_hamburger](https://i.imgur.com/ROS_BURGER_ZAHYO.png "Figure_hamburger")
+![Figure_hamburger](https://github.com/GakuKuwano/crane_x7_ros/blob/master/crane_x7_examples/ROS_BURGER_ZAHYO.png "Figure_hamburger")
 
 棚に具材を置く位置
 
-![Figure2_hamburger](https://i.imgur.com/ROS_BURGER_ZAHYO2.png "Figure2_hamburger")
+![Figure2_hamburger](https://github.com/GakuKuwano/crane_x7_ros/blob/master/crane_x7_examples/ROS_BURGER_ZAHYO2.png "Figure2_hamburger")
 
 ---
 
