@@ -77,7 +77,7 @@ pip install PyQt5
 
 　　詳しくは[こちら](https://www.riverbankcomputing.com/static/Docs/PyQt5/installation.html)を参照してください。
 
-### <ROS BURGERの実行方法>
+### <実行方法>
 
 まず、RealSenseカメラの起動をするために次のコマンドを実行します。
 
