@@ -61,13 +61,13 @@ roslaunch crane_x7_gazebo crane_x7_with_table.launch
 
 <ROS BURGERの実行方法>
 
-まず、RealSenseカメラの起動するために次のコマンドを実行します。
+まず、RealSenseカメラの起動をするために次のコマンドを実行します。
 
 ```sh
 roslaunch realsense2_camera rs_camera.launch
 ```
 
-さらに、darknet_rosの起動するために次のコマンドを実行します。
+さらに、darknet_rosの起動をするために次のコマンドを実行します。
 
 ```sh
 roslaunch darknet_ros darknet_ros.launch
@@ -84,7 +84,7 @@ paper_plateの認識結果
 rosrun crane_x7_examples hamburger_maker.py
 ```
 
-皿を認識したら以下のようなGUIが表示されます。
+皿を認識したら以下のようなGUIが表示されます。好きなボタンを選んで押すと、注文することができます。
 
 ![Figure_GUI](https://github.com/GakuKuwano/crane_x7_ros/blob/master/crane_x7_examples/Screenshot%20from%202020-01-27%2003-05-57.png "Figure_GUI")
 
