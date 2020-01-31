@@ -45,9 +45,9 @@ roslaunch crane_x7_bringup demo.launch fake_execution:=false port:=/dev/ttyUSB1
 roslaunch crane_x7_gazebo crane_x7_with_table.launch
 ```
 
-## サンプルの実行方法
+## プログラムの実行方法
 
-`demo.launch`を実行している状態で各サンプルを実行することができます。
+`demo.launch`を実行している状態で各プログラムを実行することができます。
 
 
 ### hamburger_maker.pyの実行
@@ -163,6 +163,10 @@ rosrun crane_x7_examples papercup_tower.py
 動作させると[こちら](https://www.youtube.com/watch?v=9H0dxWXuLgc)のような動きをします。
 
 ---
+
+## サンプルの実行方法
+
+`demo.launch`を実行している状態で各サンプルを実行することができます。
 
 ### gripper_action_example.pyの実行
 
