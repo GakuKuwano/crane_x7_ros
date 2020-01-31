@@ -59,7 +59,25 @@ roslaunch crane_x7_gazebo crane_x7_with_table.launch
 
 詳しくは[こちら](https://github.com/GakuKuwano/crane_x7_ros/blob/master/crane_x7_examples/ROS_BURGER.pdf)を参照してください。
 
-<ROS BURGERの実行方法>
+### <インストールするもの>
+
+・RealSense ROSをインストールする
+
+　　詳しくは[こちら](https://github.com/IntelRealSense/realsense-ros)を参照してください。
+
+・darknet_rosをインストールする
+
+　　詳しくは[こちら](https://github.com/leggedrobotics/darknet_ros)を参照してください。
+
+・PyQtをインストールする
+
+```sh
+pip install PyQt5
+```
+
+　　詳しくは[こちら](https://www.riverbankcomputing.com/static/Docs/PyQt5/installation.html)を参照してください。
+
+### <ROS BURGERの実行方法>
 
 まず、RealSenseカメラの起動をするために次のコマンドを実行します。
 
@@ -90,7 +108,7 @@ rosrun crane_x7_examples hamburger_maker.py
 
 **実機を使う場合**
 
-<具材のサイズ>
+### <具材のサイズ>
 
 buns上：直径100mm, 厚さ30mm 
 
@@ -104,15 +122,15 @@ cheese：80×80mm
 
 紙皿：120×120mm
 
-<全体図>
+### <全体図>
 
 ![Figure_hamburger](https://github.com/GakuKuwano/crane_x7_ros/blob/master/crane_x7_examples/ROS_BURGER_ZAHYO.png "Figure_hamburger")
 
-<棚に具材を置く位置>
+### <棚に具材を置く位置>
 
 ![Figure2_hamburger](https://github.com/GakuKuwano/crane_x7_ros/blob/master/crane_x7_examples/ROS_BURGER_ZAHYO2.png "Figure2_hamburger")
 
-<バンズを置く位置>
+### <バンズを置く位置>
 
 ![Figure3_hamburger](https://github.com/GakuKuwano/crane_x7_ros/blob/master/crane_x7_examples/ROS_BURGER_ZAHYO3.png "Figure3_hamburger")
 
